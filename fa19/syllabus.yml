@@ -37,7 +37,7 @@
       analyzing our data, building our dataloaders and finally our models together. Come
       and help create the future!
   optional:
-    date: ""
+    date: "2019-11-04"
     tags: ["python", "neural networks", "nns", "rnns", "cnns", "real-world"]
     slides: ""
     papers: []
